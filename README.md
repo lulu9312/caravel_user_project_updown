@@ -1,6 +1,3 @@
 
-
-Test Counter
- 
- A demo test by PDL & ORM
+A simple up down counter design for efabless's  MPW-4 shuttle.
  
